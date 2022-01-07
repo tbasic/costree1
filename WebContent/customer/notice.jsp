@@ -32,7 +32,7 @@
 <hr />
 
 
-
+<h1>홍길동 페이지</h1>
 
 <form action="notice.do" method="get">
 <input type="hidden" name="pg" value="1" />
